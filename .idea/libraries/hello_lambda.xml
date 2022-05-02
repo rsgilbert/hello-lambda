@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hello-lambda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/hello-lambda.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/target/hello-lambda.jar!/" recursive="false" />
+  </library>
+</component>
